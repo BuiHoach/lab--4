@@ -1,0 +1,14 @@
+C:\Users\tueva\Documents\C#\lab-4.2\lab-4.2\bin\Debug\net8.0\lab-4.2.exe
+C:\Users\tueva\Documents\C#\lab-4.2\lab-4.2\bin\Debug\net8.0\lab-4.2.deps.json
+C:\Users\tueva\Documents\C#\lab-4.2\lab-4.2\bin\Debug\net8.0\lab-4.2.runtimeconfig.json
+C:\Users\tueva\Documents\C#\lab-4.2\lab-4.2\bin\Debug\net8.0\lab-4.2.dll
+C:\Users\tueva\Documents\C#\lab-4.2\lab-4.2\bin\Debug\net8.0\lab-4.2.pdb
+C:\Users\tueva\Documents\C#\lab-4.2\lab-4.2\obj\Debug\net8.0\lab-4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tueva\Documents\C#\lab-4.2\lab-4.2\obj\Debug\net8.0\lab-4.2.AssemblyInfoInputs.cache
+C:\Users\tueva\Documents\C#\lab-4.2\lab-4.2\obj\Debug\net8.0\lab-4.2.AssemblyInfo.cs
+C:\Users\tueva\Documents\C#\lab-4.2\lab-4.2\obj\Debug\net8.0\lab-4.2.csproj.CoreCompileInputs.cache
+C:\Users\tueva\Documents\C#\lab-4.2\lab-4.2\obj\Debug\net8.0\lab-4.2.dll
+C:\Users\tueva\Documents\C#\lab-4.2\lab-4.2\obj\Debug\net8.0\refint\lab-4.2.dll
+C:\Users\tueva\Documents\C#\lab-4.2\lab-4.2\obj\Debug\net8.0\lab-4.2.pdb
+C:\Users\tueva\Documents\C#\lab-4.2\lab-4.2\obj\Debug\net8.0\lab-4.2.genruntimeconfig.cache
+C:\Users\tueva\Documents\C#\lab-4.2\lab-4.2\obj\Debug\net8.0\ref\lab-4.2.dll
